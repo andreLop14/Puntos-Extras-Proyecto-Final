@@ -1,0 +1,3 @@
+Descripción del Problema
+ 
+El programa debe ser capaz de procesar múltiples clientes en una sola sesión. Cada cotizacion parte de un costo base, al cual se le suman recargos porcentuales dependiendo de la edad del solicitante, su estado civil, el número de hijos, la cantidad de bienes inmuebles que posee y su capacidad económica (salario). El programa debe cerrarse solo cuando el usuario lo indique explícitamente.
